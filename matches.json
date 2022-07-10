@@ -14,6 +14,13 @@
        "nome": "Argentina",
        "forca": 5,
        "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+    }
+  }  
+  {
+    "descricao": "Eliminatórias Copa 2022",
+    "local": {
+      "nome": "Centenário",
+      "imagem": "TODO"
     },
     "mandante": {
        "nome": "Itália",
@@ -25,5 +32,22 @@
        "forca": 3,
        "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/jp.png"
     }
-  }  
+  }
+{
+    "descricao": "Eliminatórias Copa 2022",
+    "local": {
+      "nome": "Maracanã",
+      "imagem": "TODO"
+    },
+    "mandante": {
+       "nome": "Itália",
+       "forca": 4,
+       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/it.png"
+    },
+    "visitante": {
+       "nome": "Brasil",
+       "forca": 5,
+       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+    }
+  }
 ]
