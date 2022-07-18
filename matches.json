@@ -9,13 +9,13 @@
        "nome": "Brasil",
        "forca": 5,
        "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png",
-       "escalacao": [
-         "Goleiros: ", "Alisson (Liverpool)", "Ederson (Manchester City)",  "Weverton (Palmeiras)",
-         "Zagueiros:", "Eder Militão (Real Madrid)", "Gabriel Magalhães (Arsenal)", "Marquinhos (PSG)", "Thiago Silva (Chelsea)",
-         "Laterais:", "Daniel Alves (Barcelona)", "Danilo (Juventus)", "Alex Sandro (Juventus)", "Alex Telles (Manchester United)", "Guilherme Arana (Atlético-MG)",
-         "Meio-Campistas:", "Bruno Guimarães (Newcastle)", "Casemiro (Real Madrid)", "Danilo (Palmeiras)", "Fabinho (Liverpool)", "Fred (Manchester United)", "Lucas Paquetá (Lyon)", "Philippe Coutinho (Aston Villa)",
-         "Atacantes:", "Gabriel Jesus (Manchester City)", "Gabriel Martinelli (Arsenal)", "Matheus Cunha (Atlético de Madri)", "Neymar (Paris Saint-Germain)", "Raphinha (Leeds United)", "Richarlison (Everton)", "Rodrygo (Real Madrid)", "Vini Júnior (Real Madrid)"
-       ]
+       "escalacao": {
+         "Goleiros": "Alisson (Liverpool)", "Ederson (Manchester City)",  "Weverton (Palmeiras)",
+         "Zagueiros": "Eder Militão (Real Madrid)", "Gabriel Magalhães (Arsenal)", "Marquinhos (PSG)", "Thiago Silva (Chelsea)",
+         "Laterais": "Daniel Alves (Barcelona)", "Danilo (Juventus)", "Alex Sandro (Juventus)", "Alex Telles (Manchester United)", "Guilherme Arana (Atlético-MG)",
+         "Meio-Campistas": "Bruno Guimarães (Newcastle)", "Casemiro (Real Madrid)", "Danilo (Palmeiras)", "Fabinho (Liverpool)", "Fred (Manchester United)", "Lucas Paquetá (Lyon)", "Philippe Coutinho (Aston Villa)",
+         "Atacantes": "Gabriel Jesus (Manchester City)", "Gabriel Martinelli (Arsenal)", "Matheus Cunha (Atlético de Madri)", "Neymar (Paris Saint-Germain)", "Raphinha (Leeds United)", "Richarlison (Everton)", "Rodrygo (Real Madrid)", "Vini Júnior (Real Madrid)"
+       },
     },
     "visitante": {
        "nome": "Argentina",
