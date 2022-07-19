@@ -12,13 +12,13 @@
     },
     "mandante": {
        "nome": "Paraguai",
-       "forca": 3,
+       "forca": 0,
        "gols": 2,
        "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/py.png"
        },
     "visitante": {
        "nome": "Peru",
-       "forca": 3,
+       "forca": 0,
        "gols": 2,
        "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/pe.png"
     }
@@ -36,13 +36,13 @@
     },
     "mandante": {
        "nome": "Uruguai",
-       "forca": 4,
+       "forca": 2,
        "gols": 2,
        "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
     },
     "visitante": {
        "nome": "Chile",
-       "forca": 3,
+       "forca": 0,
        "gols": 1,
        "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/cl.png"
     }
@@ -60,13 +60,13 @@
     },
     "mandante": {
        "nome": "Argentina",
-       "forca": 4,
+       "forca": 2,
        "gols": 1,
        "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
     },
     "visitante": {
        "nome": "Equador",
-       "forca": 5,
+       "forca": 0,
        "gols": 0,
        "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ec.png"
     }
@@ -84,13 +84,13 @@
     },
     "mandante": {
        "nome": "Colômbia",
-       "forca": 3,
+       "forca": 0,
        "gols": 3,
        "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/co.png"
     },
     "visitante": {
        "nome": "Venezuela",
-       "forca": 2,
+       "forca": 0,
        "gols": 0,
        "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ve.png"
     }
@@ -114,7 +114,7 @@
     },
     "visitante": {
        "nome": "Bolívia",
-       "forca": 5,
+       "forca": 0,
        "gols": 0,
        "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/bo.png"
     }
