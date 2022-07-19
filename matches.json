@@ -1,53 +1,102 @@
 [
   {
-    "descricao": "Eliminatórias Copa 2022",
+    "descricao": "1ª RODADA",
     "local": {
-      "nome": "Maracanã",
-      "imagem": "https://cdn.pixabay.com/photo/2016/03/29/17/07/maracana-1288818_1280.jpg"
+      "nome": "Defensores Del Chaco",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Defensores_del_Chaco_6-10-2016_2.jpg/250px-Defensores_del_Chaco_6-10-2016_2.jpg",
+      "data": "Qui 08/10/2020"
     },
     "mandante": {
-       "nome": "Brasil",
-       "forca": 5,
-       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+       "nome": "Paraguai",
+       "forca": 3,
+       "gols": 2,
+       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/py.png"
        },
     "visitante": {
-       "nome": "Argentina",
-       "forca": 5,
-       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+       "nome": "Peru",
+       "forca": 3,
+       "gols": 2,
+       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/pe.png"
     }
   },  
   {
-    "descricao": "Eliminatórias Copa 2022",
+    "descricao": "1ª RODADA",
     "local": {
-      "nome": "Olympic Stadium Hernando Siles",
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Hernando_Siles_Stadium_-_La_Paz.jpg"
+      "nome": "Centenário",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Estadio_Centenario_2021.jpg/270px-Estadio_Centenario_2021.jpg",
+      "data": "Qui 08/10/2020"
     },
     "mandante": {
-       "nome": "Itália",
+       "nome": "Uruguai",
        "forca": 4,
-       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/it.png"
+       "gols": 2,
+       "imagem": "https://www.bandeirasnacionais.com/data/flags/home/uy.png"
     },
     "visitante": {
-       "nome": "Japão",
+       "nome": "Chile",
        "forca": 3,
-       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/jp.png"
+       "gols": 1,
+       "imagem": "https://www.bandeirasnacionais.com/data/flags/home/cl.png"
     }
   },
 {
-    "descricao": "Eliminatórias Copa 2022",
+    "descricao": "1ª RODADA",
     "local": {
-      "nome": "Maracanã",
-      "imagem": "https://cdn.pixabay.com/photo/2016/03/29/17/07/maracana-1288818_1280.jpg"
+      "nome": "La Bombonera",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/La_Bombonera.jpg/280px-La_Bombonera.jpg",
+      "data": "Qui 08/10/2020" 
     },
     "mandante": {
-       "nome": "Itália",
+       "nome": "Argentina",
        "forca": 4,
-       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/it.png"
+       "gols": 1,
+       "imagem": "https://www.bandeirasnacionais.com/data/flags/home/ar.png"
     },
     "visitante": {
+       "nome": "Equador",
+       "forca": 5,
+       "gols": 0,
+       "imagem": "https://www.bandeirasnacionais.com/data/flags/home/ec.png"
+    }
+  }
+  {
+    "descricao": "1ª RODADA",
+    "local": {
+      "nome": "Metropolitano Barranquilla",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Estadio_Metropolitano_de_Barranquilla.jpg/273px-Estadio_Metropolitano_de_Barranquilla.jpg",
+      "data": "Sex 09/10/2020"
+    },
+    "mandante": {
+       "nome": "Colômbia",
+       "forca": 3,
+       "gols": 3,
+       "imagem": "https://www.bandeirasnacionais.com/data/flags/home/co.png"
+    },
+    "visitante": {
+       "nome": "Venezuela",
+       "forca": 2,
+       "gols": 0,
+       "imagem": "https://www.bandeirasnacionais.com/data/flags/home/ve.png"
+    }
+  }
+{
+    "descricao": "1ª RODADA",
+    "local": {
+      "nome": "Neo Química Arena",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Brazil_and_Croatia_match_at_the_FIFA_World_Cup_%282014-06-12%3B_fans%29_17.jpg/220px-Brazil_and_Croatia_match_at_the_FIFA_World_Cup_%282014-06-12%3B_fans%29_17.jpg",
+      "data": "Sex 09/10/2020"
+    },
+    "mandante": {
        "nome": "Brasil",
        "forca": 5,
+       "gols": 5,
        "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+    },
+    "visitante": {
+       "nome": "Bolívia",
+       "forca": 5,
+       "gols": 0,
+       "imagem": "https://www.bandeirasnacionais.com/data/flags/home/bo.png"
     }
   }
 ]
