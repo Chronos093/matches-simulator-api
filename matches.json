@@ -2,6 +2,10 @@
   {
     "descricao": "1ª RODADA",
     "data": "Qui 08/10/2020",
+    "arbitro": {
+      "nome": "Néstor Pitana",
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+    },
     "local": {
       "nome": "Defensores Del Chaco",
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/18/Defensores_del_Chaco.JPG"
@@ -22,6 +26,10 @@
   {
     "descricao": "1ª RODADA",
     "data": "Qui 08/10/2020",
+    "arbitro": {
+      "nome": "Éber Aquino",
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/py.png"
+    },
     "local": {
       "nome": "Centenário",
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/98/Estadio_Centenario_2021.jpg"
@@ -42,6 +50,10 @@
 {
     "descricao": "1ª RODADA",
     "data": "Qui 08/10/2020",
+    "arbitro": {
+      "nome": "Roberto Tobar",
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/cl.png"
+    },
     "local": {
       "nome": "La Bombonera",
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/La_Bombonera.jpg/1024px-La_Bombonera.jpg"
@@ -62,6 +74,10 @@
   {
     "descricao": "1ª RODADA",
     "data": "Sex 09/10/2020",
+    "arbitro": {
+      "nome": "Guillermo Guerrero",
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ec.png"
+    },
     "local": {
       "nome": "Metropolitano Barranquilla",
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Estadio_Metropolitano_Roberto_Mel%C3%A9ndez.jpg/1920px-Estadio_Metropolitano_Roberto_Mel%C3%A9ndez.jpg"
@@ -82,6 +98,10 @@
 {
     "descricao": "1ª RODADA",
     "data": "Sex 09/10/2020",
+    "arbitro": { 
+      "nome": "Leodán González",
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
+    },
     "local": {
       "nome": "Neo Química Arena",
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c6/ARENA_CORINTHIANS.jpg"      
