@@ -30,13 +30,13 @@
        "nome": "Uruguai",
        "forca": 4,
        "gols": 2,
-       "imagem": "https://www.bandeirasnacionais.com/data/flags/home/uy.png"
+       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
     },
     "visitante": {
        "nome": "Chile",
        "forca": 3,
        "gols": 1,
-       "imagem": "https://www.bandeirasnacionais.com/data/flags/home/cl.png"
+       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/cl.png"
     }
   },
 {
@@ -50,13 +50,13 @@
        "nome": "Argentina",
        "forca": 4,
        "gols": 1,
-       "imagem": "https://www.bandeirasnacionais.com/data/flags/home/ar.png"
+       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
     },
     "visitante": {
        "nome": "Equador",
        "forca": 5,
        "gols": 0,
-       "imagem": "https://www.bandeirasnacionais.com/data/flags/home/ec.png"
+       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ec.png"
     }
   },
   {
@@ -70,13 +70,13 @@
        "nome": "Colômbia",
        "forca": 3,
        "gols": 3,
-       "imagem": "https://www.bandeirasnacionais.com/data/flags/home/co.png"
+       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/co.png"
     },
     "visitante": {
        "nome": "Venezuela",
        "forca": 2,
        "gols": 0,
-       "imagem": "https://www.bandeirasnacionais.com/data/flags/home/ve.png"
+       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ve.png"
     }
   },
 {
@@ -96,7 +96,7 @@
        "nome": "Bolívia",
        "forca": 5,
        "gols": 0,
-       "imagem": "https://www.bandeirasnacionais.com/data/flags/home/bo.png"
+       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/bo.png"
     }
   }
 ]
