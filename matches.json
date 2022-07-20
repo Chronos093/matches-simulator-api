@@ -119,8 +119,7 @@
        "forca": 5,
        "gols": 5,
        "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png",
-       "marcou": ["Marquinhos - 16'", "Firmino - 30', 49'", "Carrasco - 66'", "Coutinho - 73'"
-"]
+       "marcou": ["Marquinhos - 16'", "Firmino - 30', 49'", "Carrasco - 66'", "Coutinho - 73'"]
     },
     "visitante": {
        "nome": "Bolívia",
