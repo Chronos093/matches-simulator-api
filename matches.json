@@ -17,7 +17,7 @@
        "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/py.png",
        "marcou": [{
          "nome": "Á. Romero",
-         "tempo": "66', 81'"
+         "tempo": "66' - 81'"
        }]
        },
     "visitante": {
@@ -27,7 +27,7 @@
        "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/pe.png",
        "marcou": [{
          "nome": "Carrillo",
-         "tempo": "52', 85'"
+         "tempo": "52' - 85'"
        }]
     }
   },  
@@ -119,7 +119,7 @@
          "tempo": "16'"
        }, { 
          "nome": "Muriel", 
-         "tempo": "26', 45+3'"
+         "tempo": "26' - 45+3'"
        }]
     },
     "visitante": {
@@ -154,7 +154,7 @@
          "tempo": "16'"
        }, { 
          "nome": "Firmino", 
-         "tempo": "30', 49'"
+         "tempo": "30' - 49'"
        }, {
          "nome": "Carrasco",
          "tempo": "66'"
