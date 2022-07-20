@@ -15,20 +15,24 @@
        "forca": 0,
        "gols": 2,
        "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/py.png",
-       "marcou": [{
-         "nome": "Á. Romero",
-         "tempo": "66' - 81'"
-       }]
+       "marcou": [
+         {
+           "nome": "Á. Romero",
+           "tempo": "66 - 81"
+         }
+       ]
        },
     "visitante": {
        "nome": "Peru",
        "forca": 0,
        "gols": 2,
        "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/pe.png",
-       "marcou": [{
-         "nome": "Carrillo",
-         "tempo": "52' - 85'"
-       }]
+       "marcou": [
+         {
+           "nome": "Carrillo",
+           "tempo": "52 - 85"
+         }
+       ]
     }
   },  
   {
@@ -47,23 +51,28 @@
        "forca": 2,
        "gols": 2,
        "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png",
-       "marcou": [{
-         "nome": "L. Suárez",
-         "tempo": "9'"
-       }, {
-         "nome": "Gómez",
-         "tempo": "90+3'"
-       }]
+       "marcou": [
+         {
+           "nome": "L. Suárez",
+           "tempo": "9"
+          }, 
+         {
+           "nome": "Gómez",
+           "tempo": "90+3"
+         }
+       ]
     },
     "visitante": {
        "nome": "Chile",
        "forca": 0,
        "gols": 1,
        "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/cl.png",
-       "marcou": [{
-         "nome": "Sánchez",
-         "tempo":"54'"
-       }]
+       "marcou": [
+         {
+           "nome": "Sánchez",
+           "tempo":"54"
+         }
+       ]
     }
   },
 {
@@ -82,20 +91,24 @@
        "forca": 2,
        "gols": 1,
        "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png",
-       "marcou": [{
-         "nome": "Messi",
-         "tempo": "13'"
-       }]
+       "marcou": [
+         {
+           "nome": "Messi",
+           "tempo": "13"
+         }
+       ]
     },
     "visitante": {
        "nome": "Equador",
        "forca": 0,
        "gols": 0,
        "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ec.png",
-       "marcou": [{
-         "nome": "", 
-         "tempo": ""
-       }]
+       "marcou": [
+         {
+           "nome": "", 
+           "tempo": ""
+         }
+       ]
     }
   },
   {
@@ -114,23 +127,28 @@
        "forca": 0,
        "gols": 3,
        "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/co.png",
-       "marcou": [{
-         "nome": "Zapata", 
-         "tempo": "16'"
-       }, { 
-         "nome": "Muriel", 
-         "tempo": "26' - 45+3'"
-       }]
+       "marcou": [
+         {
+           "nome": "Zapata", 
+           "tempo": "16"
+         }, 
+         { 
+           "nome": "Muriel", 
+           "tempo": "26 - 45+3"
+         }
+       ]
     },
     "visitante": {
        "nome": "Venezuela",
        "forca": 0,
        "gols": 0,
        "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ve.png",
-       "marcou": [{
-         "nome": "",
-         "tempo": ""
-       }]
+       "marcou": [
+         {
+           "nome": "",
+           "tempo": ""
+         }
+       ]
     }
   },
 {
@@ -149,29 +167,36 @@
        "forca": 5,
        "gols": 5,
        "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png",
-       "marcou": [{
-         "nome": "Marquinhos",
-         "tempo": "16'"
-       }, { 
-         "nome": "Firmino", 
-         "tempo": "30' - 49'"
-       }, {
-         "nome": "Carrasco",
-         "tempo": "66'"
-       }, { 
-         "nome": "Coutinho",
-         "tempo": "73'"
-       }]
+       "marcou": [
+         {
+           "nome": "Marquinhos",
+           "tempo": "16"
+         }, 
+         {
+           "nome": "Firmino", 
+           "tempo": "30 - 49"
+         }, 
+         {
+           "nome": "Carrasco",
+           "tempo": "66"
+         }, 
+         { 
+           "nome": "Coutinho",
+           "tempo": "73"
+         }
+       ]
     },
     "visitante": {
        "nome": "Bolívia",
        "forca": 0,
        "gols": 0,
        "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/bo.png",
-       "marcou": [{
-         "nome": "",
-         "tempo": ""
-       }]
+       "marcou": [
+         {
+           "nome": "",
+           "tempo": ""
+         }
+       ]
     }
   }
 ]
