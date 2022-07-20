@@ -14,13 +14,15 @@
        "nome": "Paraguai",
        "forca": 0,
        "gols": 2,
-       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/py.png"
+       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/py.png",
+       "marcou": ["Á. Romero Gol - 66', 81'"]
        },
     "visitante": {
        "nome": "Peru",
        "forca": 0,
        "gols": 2,
-       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/pe.png"
+       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/pe.png",
+       "marcou": ["Carrillo - 52', 85'"]
     }
   },  
   {
@@ -38,13 +40,15 @@
        "nome": "Uruguai",
        "forca": 2,
        "gols": 2,
-       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
+       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png",
+       "marcou": ["L. Suárez - 39'", "Gómez - 90+3'"]
     },
     "visitante": {
        "nome": "Chile",
        "forca": 0,
        "gols": 1,
-       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/cl.png"
+       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/cl.png",
+       "marcou": ["Sánchez - 54'"]
     }
   },
 {
@@ -62,13 +66,15 @@
        "nome": "Argentina",
        "forca": 2,
        "gols": 1,
-       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png",
+       "marcou": ["Messi - 13'"]
     },
     "visitante": {
        "nome": "Equador",
        "forca": 0,
        "gols": 0,
-       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ec.png"
+       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ec.png",
+       "marcou": [""]
     }
   },
   {
@@ -86,13 +92,15 @@
        "nome": "Colômbia",
        "forca": 0,
        "gols": 3,
-       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/co.png"
+       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/co.png",
+       "marcou": ["Zapata - 16'", "Muriel - 26', 45+3'"]
     },
     "visitante": {
        "nome": "Venezuela",
        "forca": 0,
        "gols": 0,
-       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ve.png"
+       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ve.png",
+       "marcou": [""]
     }
   },
 {
@@ -110,13 +118,16 @@
        "nome": "Brasil",
        "forca": 5,
        "gols": 5,
-       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png",
+       "marcou": ["Marquinhos - 16'", "Firmino - 30', 49'", "Carrasco - 66'", "Coutinho - 73'"
+"]
     },
     "visitante": {
        "nome": "Bolívia",
        "forca": 0,
        "gols": 0,
-       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/bo.png"
+       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/bo.png",
+       "marcou": [""]
     }
   }
 ]
