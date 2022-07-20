@@ -14,27 +14,14 @@
        "nome": "Paraguai",
        "forca": 0,
        "gols": 2,
-       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/py.png",
-       "marcou": [
-         {
-           "nome": "Á. Romero",
-           "tempo": "66 - 81"
-         }
-       ]
+       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/py.png"
        },
     "visitante": {
        "nome": "Peru",
        "forca": 0,
        "gols": 2,
-       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/pe.png",
-       "marcou": [
-         {
-           "nome": "Carrillo",
-           "tempo": "52 - 85"
-         }
-       ]
-    }
-  },  
+       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/pe.png"}
+   },  
   {
     "descricao": "1ª RODADA",
     "data": "Qui 08/10/2020",
@@ -50,29 +37,13 @@
        "nome": "Uruguai",
        "forca": 2,
        "gols": 2,
-       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png",
-       "marcou": [
-         {
-           "nome": "L. Suárez",
-           "tempo": "9"
-          }, 
-         {
-           "nome": "Gómez",
-           "tempo": "90+3"
-         }
-       ]
+       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
     },
     "visitante": {
        "nome": "Chile",
        "forca": 0,
        "gols": 1,
-       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/cl.png",
-       "marcou": [
-         {
-           "nome": "Sánchez",
-           "tempo":"54"
-         }
-       ]
+       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/cl.png"
     }
   },
 {
@@ -90,25 +61,13 @@
        "nome": "Argentina",
        "forca": 2,
        "gols": 1,
-       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png",
-       "marcou": [
-         {
-           "nome": "Messi",
-           "tempo": "13"
-         }
-       ]
+       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
     },
     "visitante": {
        "nome": "Equador",
        "forca": 0,
        "gols": 0,
-       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ec.png",
-       "marcou": [
-         {
-           "nome": "", 
-           "tempo": ""
-         }
-       ]
+       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ec.png"
     }
   },
   {
@@ -126,29 +85,13 @@
        "nome": "Colômbia",
        "forca": 0,
        "gols": 3,
-       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/co.png",
-       "marcou": [
-         {
-           "nome": "Zapata", 
-           "tempo": "16"
-         }, 
-         { 
-           "nome": "Muriel", 
-           "tempo": "26 - 45+3"
-         }
-       ]
+       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/co.png"
     },
     "visitante": {
        "nome": "Venezuela",
        "forca": 0,
        "gols": 0,
-       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ve.png",
-       "marcou": [
-         {
-           "nome": "",
-           "tempo": ""
-         }
-       ]
+       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ve.png"
     }
   },
 {
@@ -166,37 +109,13 @@
        "nome": "Brasil",
        "forca": 5,
        "gols": 5,
-       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png",
-       "marcou": [
-         {
-           "nome": "Marquinhos",
-           "tempo": "16"
-         }, 
-         {
-           "nome": "Firmino", 
-           "tempo": "30 - 49"
-         }, 
-         {
-           "nome": "Carrasco",
-           "tempo": "66"
-         }, 
-         { 
-           "nome": "Coutinho",
-           "tempo": "73"
-         }
-       ]
+       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     },
     "visitante": {
        "nome": "Bolívia",
        "forca": 0,
        "gols": 0,
-       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/bo.png",
-       "marcou": [
-         {
-           "nome": "",
-           "tempo": ""
-         }
-       ]
+       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/bo.png"
     }
   }
 ]
